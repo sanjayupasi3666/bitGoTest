@@ -1,5 +1,5 @@
-use node version 16.16.0 >
+use node version 16.16.0 
 
-yarn install > 
+yarn install 
 
 yarn test
